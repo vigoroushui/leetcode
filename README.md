@@ -19,5 +19,6 @@ Welcome to the discussion if you have any questions!
 | 14 | [Longest Common Prefix](https://github.com/vigoroushui/leetcode/tree/master/algorithm/longestCommonPrefix_14) | c++ | Easy |
 | 20 | [Valid Parentheses](https://github.com/vigoroushui/leetcode/tree/master/algorithm/validParentheses_20) | c++ | Easy|
 | 21 | [Merge Two Sorted Lists](https://github.com/vigoroushui/leetcode/tree/master/algorithm/mergeTwoSortedLists_21) | c++ | Easy |
+| 67 | [Add Binary](https://github.com/vigoroushui/leetcode/tree/master/algorithm/addBinary_67) | c++ | Easy |
 | 146 | [LRU Cache](https://github.com/vigoroushui/leetcode/tree/master/algorithm/LRUCache_146) | c++ | Medium |
 | 976 | [Largest Perimeter Triangle](https://github.com/vigoroushui/leetcode/tree/master/algorithm/largestPerimeterTriangle_976) | c++ | Easy|
